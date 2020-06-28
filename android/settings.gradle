@@ -1,4 +1,8 @@
 rootProject.name = 'TeamfightComps'
+include ':react-native-shape-image-view'
+project(':react-native-shape-image-view').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-shape-image-view/android')
+include ':react-native-shape-image-view'
+project(':react-native-shape-image-view').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-shape-image-view/android')
 
 apply from: '../node_modules/react-native-unimodules/gradle.groovy'
 includeUnimodulesProjects()
