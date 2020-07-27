@@ -1,0 +1,2556 @@
+{"ola":{
+    "metadata": {
+        "data_version": "4",
+        "match_id": "BR1_1914530343",
+        "participants": [
+            "AT3qCTinbxB5NR44pu6BmmdP21FNTTYTdpMceuvPEVEcI4u7ke6IEnRZqA5UH2W2bgniLiz__KvtQg",
+            "_IeKCt-LHy82zRpmvCcWyRD-3CnQUnqz13SM-4pdbhRImtrCHwQ7W17UxNmvVjkmOa7EGfbpNbNmTg",
+            "J3KqhR5hfbLTk-c_bXugp6LixRPIEJG2VwJLZZGz6_PdbA1TOJAsDLeS455EOa2ZzEpEYDztY_8Odw",
+            "vV1GJdoFLs0nol8QzV-Ij32QaYnrIrwSxHaKmzIYHVlm8rz2-Bg92ORKKB65dubZsWIUaHgCgyc31w",
+            "gc-jXpryqLDxNT5A7g2o-SmlwavWvNo49hPyI7abLRuW-N75qs5LA-fkNVMX6YLm0Xt7ZrwKx8XQgA",
+            "LyDi8cvhR9Z44KlNYRQU2zQzmK_JPspzgT6-cWXf75c41s8xzGY0--wN5fALeeCuVtrZKBx3GSayEQ",
+            "PcqxHynJ53RTn1DWYcqRYkwSCIW-eFJ_AU8NPnmfZGDa2ty4t3ma0673qghca_Fr-7KD86f5Pbj8tg",
+            "MRLbKMCiN3WWVU8liJcMoWdl3n3JVGED4vlEUw7faxignTAFpSihvX8aNMdO0u4QGFJxOKd1fXK3hw"
+        ]
+    },
+    "info": {
+        "game_datetime": 1586946267947,
+        "game_length": 2218.39013671875,
+        "game_variation": "TFT3_GameVariation_None",
+        "game_version": "Version 10.8.316.7615 (Apr 09 2020/17:53:11) [PUBLIC] <Releases/10.8>",
+        "participants": [
+            {
+                "companion": {
+                    "content_ID": "c159fe8e-a7c6-4256-9397-d888e9504660",
+                    "skin_ID": 1,
+                    "species": "PetGemTiger"
+                },
+                "gold_left": 0,
+                "last_round": 30,
+                "level": 9,
+                "placement": 8,
+                "players_eliminated": 0,
+                "puuid": "AT3qCTinbxB5NR44pu6BmmdP21FNTTYTdpMceuvPEVEcI4u7ke6IEnRZqA5UH2W2bgniLiz__KvtQg",
+                "time_eliminated": 1643.2508544921875,
+                "total_damage_to_players": 34,
+                "traits": [
+                    {
+                        "name": "Blaster",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Chrono",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Cybernetic",
+                        "num_units": 5,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "ManaReaver",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set3_Blademaster",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Brawler",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Celestial",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Mystic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Valkyrie",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Vanguard",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Fiora",
+                        "items": [],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT3_Leona",
+                        "items": [
+                            4
+                        ],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Blitzcrank",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Lucian",
+                        "items": [
+                            57
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Ezreal",
+                        "items": [
+                            67
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Vi",
+                        "items": [
+                            67
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Irelia",
+                        "items": [
+                            16
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Kayle",
+                        "items": [
+                            24,
+                            34
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Lulu",
+                        "items": [],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "c589099c-ad73-4cc6-90ac-26bf34829c67",
+                    "skin_ID": 20,
+                    "species": "PetMiner"
+                },
+                "gold_left": 0,
+                "last_round": 41,
+                "level": 9,
+                "placement": 2,
+                "players_eliminated": 0,
+                "puuid": "_IeKCt-LHy82zRpmvCcWyRD-3CnQUnqz13SM-4pdbhRImtrCHwQ7W17UxNmvVjkmOa7EGfbpNbNmTg",
+                "time_eliminated": 2210.1572265625,
+                "total_damage_to_players": 182,
+                "traits": [
+                    {
+                        "name": "Blaster",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Chrono",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Mercenary",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Rebel",
+                        "num_units": 6,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Blademaster",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Brawler",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Celestial",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Mystic",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Starship",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Valkyrie",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Malphite",
+                        "items": [
+                            36
+                        ],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Yasuo",
+                        "items": [
+                            19
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Blitzcrank",
+                        "items": [
+                            7,
+                            59
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Sona",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_MasterYi",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Jinx",
+                        "items": [
+                            23,
+                            49,
+                            15
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_MissFortune",
+                        "items": [
+                            14,
+                            39,
+                            57
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_AurelionSol",
+                        "items": [],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Lulu",
+                        "items": [],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "b500e7da-20b4-43e4-a6bf-679d0c947235",
+                    "skin_ID": 13,
+                    "species": "PetAkaliDragon"
+                },
+                "gold_left": 0,
+                "last_round": 33,
+                "level": 8,
+                "placement": 6,
+                "players_eliminated": 0,
+                "puuid": "J3KqhR5hfbLTk-c_bXugp6LixRPIEJG2VwJLZZGz6_PdbA1TOJAsDLeS455EOa2ZzEpEYDztY_8Odw",
+                "time_eliminated": 1801.2117919921875,
+                "total_damage_to_players": 52,
+                "traits": [
+                    {
+                        "name": "Blaster",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Demolitionist",
+                        "num_units": 2,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Mercenary",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Rebel",
+                        "num_units": 6,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Blademaster",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Brawler",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Celestial",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Mystic",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "SpacePirate",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Ziggs",
+                        "items": [
+                            44,
+                            4,
+                            46
+                        ],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT3_Malphite",
+                        "items": [],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Yasuo",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Sona",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_MasterYi",
+                        "items": [
+                            7
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Jinx",
+                        "items": [
+                            26
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Gangplank",
+                        "items": [
+                            39,
+                            15,
+                            19
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT3_Lulu",
+                        "items": [
+                            47
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "8729f029-9e8c-4f50-a71e-e0706fd746ae",
+                    "skin_ID": 7,
+                    "species": "PetDSSwordGuy"
+                },
+                "gold_left": 1,
+                "last_round": 31,
+                "level": 7,
+                "placement": 7,
+                "players_eliminated": 0,
+                "puuid": "vV1GJdoFLs0nol8QzV-Ij32QaYnrIrwSxHaKmzIYHVlm8rz2-Bg92ORKKB65dubZsWIUaHgCgyc31w",
+                "time_eliminated": 1702.277099609375,
+                "total_damage_to_players": 61,
+                "traits": [
+                    {
+                        "name": "Chrono",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Cybernetic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "ManaReaver",
+                        "num_units": 2,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Protector",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Rebel",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Blademaster",
+                        "num_units": 6,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Celestial",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Valkyrie",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Xayah",
+                        "items": [],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Yasuo",
+                        "items": [
+                            49,
+                            16
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Shen",
+                        "items": [
+                            67
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT3_Kassadin",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_MasterYi",
+                        "items": [
+                            78
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Irelia",
+                        "items": [],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT3_Kayle",
+                        "items": [
+                            15,
+                            33,
+                            49
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "5897ad9f-4665-4372-8f3e-6c878adb8918",
+                    "skin_ID": 1,
+                    "species": "PetTFTAvatar"
+                },
+                "gold_left": 7,
+                "last_round": 41,
+                "level": 9,
+                "placement": 1,
+                "players_eliminated": 5,
+                "puuid": "gc-jXpryqLDxNT5A7g2o-SmlwavWvNo49hPyI7abLRuW-N75qs5LA-fkNVMX6YLm0Xt7ZrwKx8XQgA",
+                "time_eliminated": 2210.1572265625,
+                "total_damage_to_players": 208,
+                "traits": [
+                    {
+                        "name": "Blaster",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Chrono",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "DarkStar",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "ManaReaver",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set3_Blademaster",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Brawler",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Celestial",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Mystic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Sorcerer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Vanguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Blitzcrank",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Mordekaiser",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Ezreal",
+                        "items": [
+                            2
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Lux",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_WuKong",
+                        "items": [
+                            47,
+                            55
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Xerath",
+                        "items": [
+                            15,
+                            37,
+                            39
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Xerath",
+                        "items": [
+                            99,
+                            44,
+                            33
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Thresh",
+                        "items": [
+                            18,
+                            23,
+                            68
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Lulu",
+                        "items": [
+                            14
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "3ae85287-a4c0-4076-be3b-5c76951b2790",
+                    "skin_ID": 1,
+                    "species": "PetAkaliDragon"
+                },
+                "gold_left": 7,
+                "last_round": 35,
+                "level": 8,
+                "placement": 4,
+                "players_eliminated": 1,
+                "puuid": "LyDi8cvhR9Z44KlNYRQU2zQzmK_JPspzgT6-cWXf75c41s8xzGY0--wN5fALeeCuVtrZKBx3GSayEQ",
+                "time_eliminated": 1916.245849609375,
+                "total_damage_to_players": 118,
+                "traits": [
+                    {
+                        "name": "Blaster",
+                        "num_units": 4,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Chrono",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Cybernetic",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Mercenary",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Rebel",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Brawler",
+                        "num_units": 4,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Celestial",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Void",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Valkyrie",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Malphite",
+                        "items": [],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT3_Blitzcrank",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Lucian",
+                        "items": [
+                            49,
+                            34,
+                            24
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Ezreal",
+                        "items": [
+                            99,
+                            14,
+                            15
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Vi",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT3_Jinx",
+                        "items": [
+                            12,
+                            19
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_ChoGath",
+                        "items": [
+                            67
+                        ],
+                        "name": "Chogath",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_MissFortune",
+                        "items": [
+                            68
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "54afcf84-9d11-4a2c-81fa-71ade91a57d3",
+                    "skin_ID": 10,
+                    "species": "PetSennaBunny"
+                },
+                "gold_left": 0,
+                "last_round": 33,
+                "level": 8,
+                "placement": 5,
+                "players_eliminated": 0,
+                "puuid": "PcqxHynJ53RTn1DWYcqRYkwSCIW-eFJ_AU8NPnmfZGDa2ty4t3ma0673qghca_Fr-7KD86f5Pbj8tg",
+                "time_eliminated": 1802.833984375,
+                "total_damage_to_players": 89,
+                "traits": [
+                    {
+                        "name": "DarkStar",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Protector",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Rebel",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Brawler",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Mystic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Sorcerer",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set3_Void",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "StarGuardian",
+                        "num_units": 5,
+                        "style": 2,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Vanguard",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Malphite",
+                        "items": [],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Poppy",
+                        "items": [],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT3_Ahri",
+                        "items": [
+                            26,
+                            2,
+                            24
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Neeko",
+                        "items": [
+                            15,
+                            44,
+                            49
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT3_Syndra",
+                        "items": [
+                            34,
+                            49,
+                            33
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT3_Soraka",
+                        "items": [],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_ChoGath",
+                        "items": [],
+                        "name": "Chogath",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Xerath",
+                        "items": [],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "12a5f971-a2e8-4590-ba71-b3d046d6bac2",
+                    "skin_ID": 16,
+                    "species": "PetDSWhale"
+                },
+                "gold_left": 5,
+                "last_round": 38,
+                "level": 9,
+                "placement": 3,
+                "players_eliminated": 1,
+                "puuid": "MRLbKMCiN3WWVU8liJcMoWdl3n3JVGED4vlEUw7faxignTAFpSihvX8aNMdO0u4QGFJxOKd1fXK3hw",
+                "time_eliminated": 2055.87548828125,
+                "total_damage_to_players": 111,
+                "traits": [
+                    {
+                        "name": "Blaster",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Chrono",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Cybernetic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "ManaReaver",
+                        "num_units": 2,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Rebel",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Blademaster",
+                        "num_units": 6,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Celestial",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Valkyrie",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Vanguard",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Xayah",
+                        "items": [
+                            24,
+                            23,
+                            66
+                        ],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Yasuo",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Shen",
+                        "items": [
+                            59
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Ezreal",
+                        "items": [
+                            17
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_MasterYi",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Irelia",
+                        "items": [
+                            46
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Kayle",
+                        "items": [
+                            37,
+                            26,
+                            66
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_WuKong",
+                        "items": [],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Thresh",
+                        "items": [],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            }
+        ],
+        "queue_id": 1100,
+        "tft_set_number": 3
+    }
+},
+"oi":{
+    "metadata": {
+        "data_version": "4",
+        "match_id": "BR1_1914530343",
+        "participants": [
+            "AT3qCTinbxB5NR44pu6BmmdP21FNTTYTdpMceuvPEVEcI4u7ke6IEnRZqA5UH2W2bgniLiz__KvtQg",
+            "_IeKCt-LHy82zRpmvCcWyRD-3CnQUnqz13SM-4pdbhRImtrCHwQ7W17UxNmvVjkmOa7EGfbpNbNmTg",
+            "J3KqhR5hfbLTk-c_bXugp6LixRPIEJG2VwJLZZGz6_PdbA1TOJAsDLeS455EOa2ZzEpEYDztY_8Odw",
+            "vV1GJdoFLs0nol8QzV-Ij32QaYnrIrwSxHaKmzIYHVlm8rz2-Bg92ORKKB65dubZsWIUaHgCgyc31w",
+            "gc-jXpryqLDxNT5A7g2o-SmlwavWvNo49hPyI7abLRuW-N75qs5LA-fkNVMX6YLm0Xt7ZrwKx8XQgA",
+            "LyDi8cvhR9Z44KlNYRQU2zQzmK_JPspzgT6-cWXf75c41s8xzGY0--wN5fALeeCuVtrZKBx3GSayEQ",
+            "PcqxHynJ53RTn1DWYcqRYkwSCIW-eFJ_AU8NPnmfZGDa2ty4t3ma0673qghca_Fr-7KD86f5Pbj8tg",
+            "MRLbKMCiN3WWVU8liJcMoWdl3n3JVGED4vlEUw7faxignTAFpSihvX8aNMdO0u4QGFJxOKd1fXK3hw"
+        ]
+    },
+    "info": {
+        "game_datetime": 1586946267947,
+        "game_length": 2218.39013671875,
+        "game_variation": "TFT3_GameVariation_None",
+        "game_version": "Version 10.8.316.7615 (Apr 09 2020/17:53:11) [PUBLIC] <Releases/10.8>",
+        "participants": [
+            {
+                "companion": {
+                    "content_ID": "c159fe8e-a7c6-4256-9397-d888e9504660",
+                    "skin_ID": 1,
+                    "species": "PetGemTiger"
+                },
+                "gold_left": 0,
+                "last_round": 30,
+                "level": 9,
+                "placement": 8,
+                "players_eliminated": 0,
+                "puuid": "AT3qCTinbxB5NR44pu6BmmdP21FNTTYTdpMceuvPEVEcI4u7ke6IEnRZqA5UH2W2bgniLiz__KvtQg",
+                "time_eliminated": 1643.2508544921875,
+                "total_damage_to_players": 34,
+                "traits": [
+                    {
+                        "name": "Blaster",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Chrono",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Cybernetic",
+                        "num_units": 5,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "ManaReaver",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set3_Blademaster",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Brawler",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Celestial",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Mystic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Valkyrie",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Vanguard",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Fiora",
+                        "items": [],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT3_Leona",
+                        "items": [
+                            4
+                        ],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Blitzcrank",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Lucian",
+                        "items": [
+                            57
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Ezreal",
+                        "items": [
+                            67
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Vi",
+                        "items": [
+                            67
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Irelia",
+                        "items": [
+                            16
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Kayle",
+                        "items": [
+                            24,
+                            34
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Lulu",
+                        "items": [],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "c589099c-ad73-4cc6-90ac-26bf34829c67",
+                    "skin_ID": 20,
+                    "species": "PetMiner"
+                },
+                "gold_left": 0,
+                "last_round": 41,
+                "level": 9,
+                "placement": 2,
+                "players_eliminated": 0,
+                "puuid": "_IeKCt-LHy82zRpmvCcWyRD-3CnQUnqz13SM-4pdbhRImtrCHwQ7W17UxNmvVjkmOa7EGfbpNbNmTg",
+                "time_eliminated": 2210.1572265625,
+                "total_damage_to_players": 182,
+                "traits": [
+                    {
+                        "name": "Blaster",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Chrono",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Mercenary",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Rebel",
+                        "num_units": 6,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Blademaster",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Brawler",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Celestial",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Mystic",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Starship",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Valkyrie",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Malphite",
+                        "items": [
+                            36
+                        ],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Yasuo",
+                        "items": [
+                            19
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Blitzcrank",
+                        "items": [
+                            7,
+                            59
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Sona",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_MasterYi",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Jinx",
+                        "items": [
+                            23,
+                            49,
+                            15
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_MissFortune",
+                        "items": [
+                            14,
+                            39,
+                            57
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_AurelionSol",
+                        "items": [],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Lulu",
+                        "items": [],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "b500e7da-20b4-43e4-a6bf-679d0c947235",
+                    "skin_ID": 13,
+                    "species": "PetAkaliDragon"
+                },
+                "gold_left": 0,
+                "last_round": 33,
+                "level": 8,
+                "placement": 6,
+                "players_eliminated": 0,
+                "puuid": "J3KqhR5hfbLTk-c_bXugp6LixRPIEJG2VwJLZZGz6_PdbA1TOJAsDLeS455EOa2ZzEpEYDztY_8Odw",
+                "time_eliminated": 1801.2117919921875,
+                "total_damage_to_players": 52,
+                "traits": [
+                    {
+                        "name": "Blaster",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Demolitionist",
+                        "num_units": 2,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Mercenary",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Rebel",
+                        "num_units": 6,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Blademaster",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Brawler",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Celestial",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Mystic",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "SpacePirate",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Ziggs",
+                        "items": [
+                            44,
+                            4,
+                            46
+                        ],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT3_Malphite",
+                        "items": [],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Yasuo",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Sona",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_MasterYi",
+                        "items": [
+                            7
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Jinx",
+                        "items": [
+                            26
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Gangplank",
+                        "items": [
+                            39,
+                            15,
+                            19
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT3_Lulu",
+                        "items": [
+                            47
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "8729f029-9e8c-4f50-a71e-e0706fd746ae",
+                    "skin_ID": 7,
+                    "species": "PetDSSwordGuy"
+                },
+                "gold_left": 1,
+                "last_round": 31,
+                "level": 7,
+                "placement": 7,
+                "players_eliminated": 0,
+                "puuid": "vV1GJdoFLs0nol8QzV-Ij32QaYnrIrwSxHaKmzIYHVlm8rz2-Bg92ORKKB65dubZsWIUaHgCgyc31w",
+                "time_eliminated": 1702.277099609375,
+                "total_damage_to_players": 61,
+                "traits": [
+                    {
+                        "name": "Chrono",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Cybernetic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "ManaReaver",
+                        "num_units": 2,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Protector",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Rebel",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Blademaster",
+                        "num_units": 6,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Celestial",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Valkyrie",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Xayah",
+                        "items": [],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Yasuo",
+                        "items": [
+                            49,
+                            16
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Shen",
+                        "items": [
+                            67
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT3_Kassadin",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_MasterYi",
+                        "items": [
+                            78
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Irelia",
+                        "items": [],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT3_Kayle",
+                        "items": [
+                            15,
+                            33,
+                            49
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "5897ad9f-4665-4372-8f3e-6c878adb8918",
+                    "skin_ID": 1,
+                    "species": "PetTFTAvatar"
+                },
+                "gold_left": 7,
+                "last_round": 41,
+                "level": 9,
+                "placement": 1,
+                "players_eliminated": 5,
+                "puuid": "gc-jXpryqLDxNT5A7g2o-SmlwavWvNo49hPyI7abLRuW-N75qs5LA-fkNVMX6YLm0Xt7ZrwKx8XQgA",
+                "time_eliminated": 2210.1572265625,
+                "total_damage_to_players": 208,
+                "traits": [
+                    {
+                        "name": "Blaster",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Chrono",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "DarkStar",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "ManaReaver",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set3_Blademaster",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Brawler",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Celestial",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Mystic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Sorcerer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Vanguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Blitzcrank",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Mordekaiser",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Ezreal",
+                        "items": [
+                            2
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Lux",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_WuKong",
+                        "items": [
+                            47,
+                            55
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Xerath",
+                        "items": [
+                            15,
+                            37,
+                            39
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Xerath",
+                        "items": [
+                            99,
+                            44,
+                            33
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Thresh",
+                        "items": [
+                            18,
+                            23,
+                            68
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Lulu",
+                        "items": [
+                            14
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "3ae85287-a4c0-4076-be3b-5c76951b2790",
+                    "skin_ID": 1,
+                    "species": "PetAkaliDragon"
+                },
+                "gold_left": 7,
+                "last_round": 35,
+                "level": 8,
+                "placement": 4,
+                "players_eliminated": 1,
+                "puuid": "LyDi8cvhR9Z44KlNYRQU2zQzmK_JPspzgT6-cWXf75c41s8xzGY0--wN5fALeeCuVtrZKBx3GSayEQ",
+                "time_eliminated": 1916.245849609375,
+                "total_damage_to_players": 118,
+                "traits": [
+                    {
+                        "name": "Blaster",
+                        "num_units": 4,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Chrono",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Cybernetic",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Mercenary",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Rebel",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Brawler",
+                        "num_units": 4,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Celestial",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Void",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Valkyrie",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Malphite",
+                        "items": [],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT3_Blitzcrank",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Lucian",
+                        "items": [
+                            49,
+                            34,
+                            24
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Ezreal",
+                        "items": [
+                            99,
+                            14,
+                            15
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Vi",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT3_Jinx",
+                        "items": [
+                            12,
+                            19
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_ChoGath",
+                        "items": [
+                            67
+                        ],
+                        "name": "Chogath",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_MissFortune",
+                        "items": [
+                            68
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "54afcf84-9d11-4a2c-81fa-71ade91a57d3",
+                    "skin_ID": 10,
+                    "species": "PetSennaBunny"
+                },
+                "gold_left": 0,
+                "last_round": 33,
+                "level": 8,
+                "placement": 5,
+                "players_eliminated": 0,
+                "puuid": "PcqxHynJ53RTn1DWYcqRYkwSCIW-eFJ_AU8NPnmfZGDa2ty4t3ma0673qghca_Fr-7KD86f5Pbj8tg",
+                "time_eliminated": 1802.833984375,
+                "total_damage_to_players": 89,
+                "traits": [
+                    {
+                        "name": "DarkStar",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Protector",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Rebel",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Brawler",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Mystic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set3_Sorcerer",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set3_Void",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "StarGuardian",
+                        "num_units": 5,
+                        "style": 2,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Vanguard",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Malphite",
+                        "items": [],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Poppy",
+                        "items": [],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT3_Ahri",
+                        "items": [
+                            26,
+                            2,
+                            24
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Neeko",
+                        "items": [
+                            15,
+                            44,
+                            49
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT3_Syndra",
+                        "items": [
+                            34,
+                            49,
+                            33
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT3_Soraka",
+                        "items": [],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_ChoGath",
+                        "items": [],
+                        "name": "Chogath",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Xerath",
+                        "items": [],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "12a5f971-a2e8-4590-ba71-b3d046d6bac2",
+                    "skin_ID": 16,
+                    "species": "PetDSWhale"
+                },
+                "gold_left": 5,
+                "last_round": 38,
+                "level": 9,
+                "placement": 3,
+                "players_eliminated": 1,
+                "puuid": "MRLbKMCiN3WWVU8liJcMoWdl3n3JVGED4vlEUw7faxignTAFpSihvX8aNMdO0u4QGFJxOKd1fXK3hw",
+                "time_eliminated": 2055.87548828125,
+                "total_damage_to_players": 111,
+                "traits": [
+                    {
+                        "name": "Blaster",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Chrono",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Cybernetic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "ManaReaver",
+                        "num_units": 2,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Rebel",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Blademaster",
+                        "num_units": 6,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set3_Celestial",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Valkyrie",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Vanguard",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT3_Xayah",
+                        "items": [
+                            24,
+                            23,
+                            66
+                        ],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Yasuo",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Shen",
+                        "items": [
+                            59
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Ezreal",
+                        "items": [
+                            17
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_MasterYi",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Irelia",
+                        "items": [
+                            46
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Kayle",
+                        "items": [
+                            37,
+                            26,
+                            66
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_WuKong",
+                        "items": [],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT3_Thresh",
+                        "items": [],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            }
+        ],
+        "queue_id": 1100,
+        "tft_set_number": 3
+    }
+}}
